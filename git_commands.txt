@@ -1,0 +1,45 @@
+git checkout branch_name - to see branch
+git checkout -b branch_name - to create branch and switch to that branch
+git branch branch_name - to create branch
+git branch -a - to see branch
+git checkout main - to go to main branch
+git pull - to pull files from git to local m/c
+clear - to cear terminal
+git status -to chck the status of the branch
+
+git add file_name - to add the file to branch
+git add . - to add multiple files
+
+git commit -m "massage" 
+
+git push --set-upstream original file_name- from local to git hub
+
+git config -a - to see all files
+
+git remote set--url username:passwaord
+
+git config --user.name"username"
+git config --user.email "emailid"
+
+git clone https://github.com/utkarsha-aacademy/April-2022.git
+
+STEPS TO PUSH FILE ON GITHUB :
+1)git checkout -b branch_name - first create branch
+2) git add file_name ot git add.
+3)git commit -m "message"
+4)git status
+5)git push
+6)git push command gives the upstreme msg copy & paste that on terminal -git push --set-upstream original file_name
+7)git hub pull request get created
+8)assign some one to review our changes
+9)once the chnages apporaval done then merge that file to git hub main branch
+
+
+https://github.com/monalispatil/First-Test-Repo.git 
+
+git merge main - to merge main branch
+
+maven
+https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
+
+mvn --version
